@@ -1,3 +1,4 @@
+<img width="1280" height="960" alt="SATELLITE" src="https://github.com/user-attachments/assets/8a7f9f51-4635-4cd5-a875-1e8be14812da" />
 # Edge AI for Simulated Mars Orbit Insertion
 
 What if a spacecraft could spot a developing trajectory problem and respond without waiting for instructions from Earth?
